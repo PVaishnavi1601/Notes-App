@@ -8,6 +8,7 @@ public class NotesApp {
         Scanner scanner = new Scanner(System.in);
         int choice;
 
+        
         do {
             System.out.println("\n===== Notes Manager =====");
             System.out.println("1. Write a new note");
